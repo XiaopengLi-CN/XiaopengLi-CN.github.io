@@ -7,13 +7,13 @@ main:
     url: "/#-news"
 
   - title: "Scholarships"
-    url: "/#-Scholarships"
+    url: "/#-scholarships"
 
   - title: "Awards and Honors"
-    url: "/#-Awards-and-Honors"
+    url: "/#-awards-and-honors"
 
   - title: "Publications"
-    url: "/#-Publications"
+    url: "/#-publications"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
