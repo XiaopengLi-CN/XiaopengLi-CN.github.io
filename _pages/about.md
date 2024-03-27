@@ -17,14 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I am a final-year (senior) undergrad majoring in Software Engineering at Qingdao University of Technology. I plan to pursue a master's degree at UNIST in the fall of 2024.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My current research interests are combining **Graph Machine Learning** theory and **Large Language Model** techniques to create applications. (In the past three months, I have taken the course "Stanford CS224W" via YouTube, which has fascinated me.)
+
+What I’m obsessed with learning:
+
+- in 2023: NLP(CS224N), Trustworthy LLMs, Recommender Systems. 
+
+- in 2022: Hadoop, Spark, Flink, Data Mining, Visualization Education. 
+
+- in 2021: Python, Machine Learning Models, Mobile App Development.
+
+- in 2020: C/C++, Java, Web Development wtih Springboot and Vue.js.
+
+( The google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> )
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Dec, 2023.*🎉🎉 Awarded **National Encouragement Scholarship** by Ministry of Education!
+- *Dec, 2022.*🎉🎉 Awarded **National Encouragement Scholarship** by Ministry of Education!
+- *Dec, 2021.* 🎉🎉Awarded **Qingdao Bank Scholarship** by Bank of Qingdao Company Limited!
 
 # 📝 Publications 
 
@@ -43,49 +56,36 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [XXXXXXXXX](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), Xiaopeng Li, B, C, **NeurIPS 2027**
 
-# 🎖 Honors and Awards
-- **Honorable Mention** Award in **Mathematical Contest In Modeling** \hfill Apr. 2023  
-  *Mathematical Association of America (MAA)*  
+# 🏅 Scholarships 
+- **National Encouragement Scholarship**
+  - Ministry of Education, Dec. 2023
+- **National Encouragement Scholarship** 
+  - Ministry of Education, Dec. 2022
+- **Qingdao Bank Scholarship**
+  - Bank of Qingdao Company Limited, Dec. 2021
 
-  ---
-
-  **First Prize** Award in **National Mathematical Contest in Modeling** \hfill Nov. 2022  
-  *Shandong Provincial Education Department*
-
-  ---
-
-  **Grand Prize** Award in **"FLTRP·ETIC Cup" English Writing Contest** \hfill Oct. 2022  
-  *Campus Round, Foreign Language Teaching and Research Press (FLTRP)*
-
-  ---
-
-  **Third Prize** Award in **National College English Speaking Competition** \hfill Jul. 2022  
-  *Regional Final, China Daily "21st Century Cup" Organizing Committee*  
-  [Video](https://youtu.be/IlQGaW6vNdc?si=1Da_92S1r6xdP6Su)
-
-  ---
-
-  **Third Prize** Award in **LAN QIAO Programming Contest (Python)** \hfill May. 2022  
-  *Regional Final, Ministry of Industry and Information Technology Center*
-
-  ---
-
-  **First Prize** Award in **National College English Speaking Competition** \hfill Apr. 2022  
-  *Campus Round, China Daily "21st Century Cup" Organizing Committee*  
-  [Video](https://youtu.be/fqMsOo9tEo0?si=1ZZdrimAuShF3h_J)
-
-  ---
-
-  **First Prize** Award in **Shandong Collegiate Choral Art Festival 2021** \hfill Nov. 2021  
-  *Shandong Provincial Education Department*
+# 🎖️ Awards and Honors 
+- **Honorable Mention Award** in Mathematical Contest In Modeling
+  - Mathematical Association of America (MAA), Apr. 2023
+- **First Prize Award** in National Mathematical Contest in Modeling
+  - Shandong Provincial Education Department, Nov. 2022
+- **Grand Prize Award** in ”FLTRP·ETIC Cup” English Writing Contest
+  - Campus Round, Foreign Language Teaching and Research Press (FLTRP), Oct. 2022
+- **Third Prize Award** in National College English Speaking Competition
+  - Regional Final, China Daily ”21st Century Cup” Organizing Committee, Jul. 2022
+- **Third Prize Award** in LAN QIAO Programming Contest (Python)
+  - Regional Final, Ministry of Industry and Information Technology Center, May. 2022
+- **First Prize Award** in National College English Speaking Competition
+  - Campus Round, China Daily ”21st Century Cup” Organizing Committee, Apr. 2022
+- **First Prize Award** in Shandong Collegiate Choral Art Festival 2021
+  - Shandong Provincial Education Department, Nov. 2021
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2021.06*, Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2024
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- China.
