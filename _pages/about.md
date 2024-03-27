@@ -51,7 +51,7 @@ What I’m obsessed with learning:
 - **Qingdao Bank Scholarship**
   - Bank of Qingdao Company Limited, Dec. 2021
 
-# 🎖️ Awards and Honors 
+# 🎖 Honors and Awards
 - **Honorable Mention Award** in Mathematical Contest In Modeling
   - Mathematical Association of America (MAA), Apr. 2023
 - **First Prize Award** in National Mathematical Contest in Modeling
