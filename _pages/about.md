@@ -28,23 +28,56 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[XXXXXXXXXXXXX](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xiaopeng Li**, ...
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='0XHmKe8AAAAJ:XXXXXXXX'></span></strong>
+
+- XXXXXXXXXXXXXXXXXXXXXX
 </div>
 </div>
 
-- [Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [XXXXXXXXX](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), Xiaopeng Li, B, C, **NeurIPS 2027**
 
 # 🎖 Honors and Awards
-- *2021.10* Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Honorable Mention** Award in **Mathematical Contest In Modeling** \hfill Apr. 2023  
+  *Mathematical Association of America (MAA)*  
+
+  ---
+
+  **First Prize** Award in **National Mathematical Contest in Modeling** \hfill Nov. 2022  
+  *Shandong Provincial Education Department*
+
+  ---
+
+  **Grand Prize** Award in **"FLTRP·ETIC Cup" English Writing Contest** \hfill Oct. 2022  
+  *Campus Round, Foreign Language Teaching and Research Press (FLTRP)*
+
+  ---
+
+  **Third Prize** Award in **National College English Speaking Competition** \hfill Jul. 2022  
+  *Regional Final, China Daily "21st Century Cup" Organizing Committee*  
+  [Video](https://youtu.be/IlQGaW6vNdc?si=1Da_92S1r6xdP6Su)
+
+  ---
+
+  **Third Prize** Award in **LAN QIAO Programming Contest (Python)** \hfill May. 2022  
+  *Regional Final, Ministry of Industry and Information Technology Center*
+
+  ---
+
+  **First Prize** Award in **National College English Speaking Competition** \hfill Apr. 2022  
+  *Campus Round, China Daily "21st Century Cup" Organizing Committee*  
+  [Video](https://youtu.be/fqMsOo9tEo0?si=1ZZdrimAuShF3h_J)
+
+  ---
+
+  **First Prize** Award in **Shandong Collegiate Choral Art Festival 2021** \hfill Nov. 2021  
+  *Shandong Provincial Education Department*
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

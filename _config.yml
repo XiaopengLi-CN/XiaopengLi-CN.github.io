@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaopeng Li"
-description              : "Great code is a lot like a thief,they both know how to steal hearts."
+description              : "Brilliant idea is a lot like a thief, both know how to steal people's hearts."
 repository               : "XiaopengLi-CN/XiaopengLi-CN.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaopeng Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Qingdao University of Technology"
+  bio              : #"Qingdao University of Technology"
   location         : "Qingdao, China"
   employer         :
   pubmed           : 
