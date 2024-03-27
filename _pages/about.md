@@ -82,23 +82,26 @@ What I’m obsessed with learning:
   - School of Information and Control Engineering, QUT
   - Advisor: Prof. Quanqiang Zhou
   - Dec. 2020 - Nov. 2021
+  - 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[XXXXXXXXXXXXX](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[XXX](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Xiaopeng Li**, ...
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=0XHmKe8AAAAJ&citation_for_view=0XHmKe8AAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='0XHmKe8AAAAJ:XXXXXXXX'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=0XHmKe8AAAAJ&citation_for_view=0XHmKe8AAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- XXXXXXXXXXXXXXXXXXXXXX
+- XXX
   </div>
   </div>
 
-- [XXXXXXXXX](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), Xiaopeng Li, B, C, **NeurIPS 2027**
+- [XXX](https://github.com), Xiaopeng Li, B, C, **NeurIPS 2026**
+
+- 
 
 # 💬 Invited Talks
 
