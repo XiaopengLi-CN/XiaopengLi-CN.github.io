@@ -12,7 +12,7 @@ repository               : "XiaopengLi-CN/XiaopengLi-CN.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  "https://www.googletagmanager.com/gtag/js?id=G-RBHTF2E1FR"
+google_analytics_id      :  "G-RBHTF2E1FR"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
