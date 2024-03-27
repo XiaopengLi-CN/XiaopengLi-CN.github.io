@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a final-year (senior) undergrad majoring in Software Engineering at Qingdao University of Technology. I plan to pursue a master's degree at UNIST in the fall of 2024.
+Hi! I am a final-year (senior) undergrad majoring in Software Engineering at Qingdao University of Technology. 
 
-My current research interests are combining **Graph Machine Learning** theory and **Large Language Model** techniques to create applications. (In the past three months, I have taken the course "Stanford CS224W" via YouTube, which has fascinated me.)
+I plan to pursue a master's degree at UNIST in the fall of 2024. You can click here to get my [**[CV]**](https://drive.google.com/file/d/1eFa3aUPhO1tkjlL_KJtxOGDmnXPsR-o7/view?usp=drive_link).
+
+My current research interests are combining **Graph Machine Learning** theory and **Large Language Model** techniques to create applications.
+
+(In the past three months, I have taken the course "Stanford CS224W" via YouTube, which has fascinated me.)
 
 What I’m obsessed with learning:
 
@@ -80,9 +84,21 @@ What I’m obsessed with learning:
 - **First Prize Award** in Shandong Collegiate Choral Art Festival 2021
   - Shandong Provincial Education Department, Nov. 2021
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Xiaopeng Li dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔬 Research Experiences 
+- **Digital Humanity Laboratory**
+  - School of Humanities and Foreign Languages, QUT
+  - Advisor: Prof. Roger Fung
+  - Apr. 2023 - Present
+
+- **Data Science Group**
+  - School of Science, QUT
+  - Advisor: Prof. Lisha Wang
+  - Oct. 2020 - Nov. 2023
+
+- **Machine Learning Laboratory**
+  - School of Information and Control Engineering, QUT
+  - Advisor: Prof. Quanqiang Zhou
+  - Dec. 2020 - Nov. 2021
 
 # 💬 Invited Talks
 - 2024
