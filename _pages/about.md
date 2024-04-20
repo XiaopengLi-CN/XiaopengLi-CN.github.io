@@ -72,7 +72,7 @@ What I was obsessed with learning:
 - **Data Science Group**
   - School of Science, QUT
   - Advisor: Prof. Lisha Wang
-  - Oct. 2020 - Nov. 2023
+  - Oct. 2020 - Present
 
 - **Machine Learning Laboratory**
   - School of Information and Control Engineering, QUT
