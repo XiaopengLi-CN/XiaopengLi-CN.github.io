@@ -19,13 +19,9 @@ redirect_from:
 
 Hi! I am a final-year (senior) undergrad majoring in Software Engineering at Qingdao University of Technology. 
 
-I plan to pursue a master's degree at UNIST in the fall of 2024. You can click here to get my [**[CV]**](https://drive.google.com/file/d/1eFa3aUPhO1tkjlL_KJtxOGDmnXPsR-o7/view?usp=drive_link).
+I plan to pursue a master's degree in the fall of 2024. You can click here to get my [**[CV]**](https://drive.google.com/file/d/1CWQjHMU_N-PV6bNysmibYmeCKOBBgvhe/view?usp=drive_link).
 
-My current research interests are combining **Graph Machine Learning** theory and **Large Language Model** techniques to create applications.
-
-(In the past three months, I have taken the course "Stanford CS224W" via YouTube, which has fascinated me.)
-
-What I’m obsessed with learning:
+What I was obsessed with learning:
 
 - in 2023: NLP(CS224N), Trustworthy LLMs, Recommender Systems. 
 
