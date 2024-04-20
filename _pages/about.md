@@ -29,7 +29,7 @@ What I was obsessed with learning:
 
 - in 2021: Python, Machine Learning Models, Mobile App Development.
 
-- in 2020: C/C++, Java, Web Development wtih Springboot and Vue.js.
+- in 2020: C/C++, Java, Web Development with Springboot and Vue.js.
 
 
 
